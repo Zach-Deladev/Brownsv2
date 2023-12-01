@@ -9458,5 +9458,11 @@ img {
 	a.btn-download {
 		display:none;
     }
+
+    .img-url {
+        position: absolute;
+        width: 100%;
+        height: 50%;
+    }
 }
 
