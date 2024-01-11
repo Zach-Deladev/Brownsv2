@@ -5935,7 +5935,9 @@ a:hover,
 .carousel-item {
     width: 100%;
 }
-
+.carousel-item.click{
+	cursor:pointer;
+}
 .carousel-item img {
     width: 100%;
     height: auto;
