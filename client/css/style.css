@@ -6634,7 +6634,7 @@ footer .widget_list li a {
 .typed-strings p{position:absolute;}
 .typed-cursor{
 opacity: 1;
-font-size: 40px;
+font-size: 32px;
 -webkit-animation: blink 0.7s infinite;
 -moz-animation: blink 0.7s infinite;
 animation: blink 0.7s infinite;
